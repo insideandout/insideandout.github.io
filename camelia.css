@@ -16,6 +16,7 @@ body {
 h2 {
     font-size: 1.5em;
 	padding-left: 15cm;
+	font-family: Calibri
 	
 } 
 
@@ -24,6 +25,8 @@ h1 {
 	color: darkred;
 	text-align: center;
 	font-family: "Broadway";
+	box-shadow: inset 0 0 1px 5px #3B0B0B;
+	text-shadow: -2px 2px 2px #3B0B0B;
 }
 
 body {
@@ -34,7 +37,7 @@ body {
 nav ul {
 	padding-left: 0;
 	margin-left: 0;
-	background-color: #61380B;
+	background-color:#61380B;
 	color: White;
 	float: left;
 	width: 100%;
@@ -72,3 +75,4 @@ img{
 .centered {
 	text-align: center;
 }
+
