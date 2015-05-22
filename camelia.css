@@ -1,11 +1,71 @@
 p {
-	color: #2E2E2E
+	color: #3B0B17
+	margin-left: 1;
 }
 
 a {
-    color: black;
+    color: white;
+	font-family: Britannic Bold;
+	text-decoration: none;
 }
 
 body {
-	background-color: #F8ECE0
+	background-color: #FAAC58
 }
+
+h2 {
+    font-size: 1.5em;
+	padding-left: 15cm;
+	
+} 
+
+h1 {
+    font-size: 2.5em;
+	color: darkred;
+	padding-left: 14cm;
+	font-family: "Broadway";
+}
+
+body {
+    font-family: Arial Rounded MT Bold;
+    font-size: 14px;
+}
+
+nav ul {
+	padding-left: 0;
+	margin-left: 0;
+	background-color: #61380B;
+	color: White;
+	float: left;
+	width: 100%;
+	font-family: arial, helvetica, sans-serif;
+
+}
+
+nav ul li {display: inline; }
+
+nav ul li {
+	padding: 0.2em 1em;
+	background-color: #61380B;
+	color: White;
+	text-decoration: none;
+	float: left;
+	border-right: 1px solid #fff;
+
+}
+
+nav ul li a:hover{
+
+	background-color: #369;
+	color: #fff;
+
+}
+
+ol {
+	padding-left:18cm;
+}
+
+img{
+	padding-left:15cm;
+}
+
